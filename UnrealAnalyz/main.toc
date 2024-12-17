@@ -1,0 +1,32 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Contents\ttl@gmk {\@mkboth {\MakeUppercase []{Contents}}{\MakeUppercase []{Contents}}}}{3}{chapter*.1}%
+\contentsline {part}{I\hspace {1em}Real Analysis of the Class Struggle}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Sets, Real and Complex Number Systems}{7}{chapter.1.1}%
+\contentsline {section}{\numberline {1}Prelimnaries}{7}{section.1.1.1}%
+\contentsline {subsection}{\numberline {1.1}Operations on Relations}{9}{subsection.1.1.1.1}%
+\contentsline {subsection}{\numberline {1.2}Homogeneous Relations}{9}{subsection.1.1.1.2}%
+\contentsline {section}{\numberline {2}Induction, Naturals, Rationals and the Axiom of Choice }{11}{section.1.1.2}%
+\contentsline {subsection}{\numberline {2.1}Axiom of Choice}{16}{subsection.1.1.2.1}%
+\contentsline {section}{\numberline {3}The Real and Complex Fields}{20}{section.1.1.3}%
+\contentsline {subsection}{\numberline {3.1}The Reals $\mathbb {R}$}{20}{subsection.1.1.3.1}%
+\contentsline {subsection}{\numberline {3.2}The Complex field $\mathbb C$}{26}{subsection.1.1.3.2}%
+\contentsline {subsection}{\numberline {3.3}Some Inequalities}{29}{subsection.1.1.3.3}%
+\contentsline {subsection}{\numberline {3.4}Intervals on the Real Line}{33}{subsection.1.1.3.4}%
+\contentsline {subsection}{\numberline {3.5}Decimal Expansions, and related results}{34}{subsection.1.1.3.5}%
+\contentsline {section}{\numberline {4}Misc Results}{36}{section.1.1.4}%
+\contentsline {chapter}{\numberline {2}Introduction to Sequences and Series of Real Numbers}{39}{chapter.1.2}%
+\contentsline {section}{\numberline {1}On Sequences (Introduction)}{39}{section.1.2.1}%
+\contentsline {section}{\numberline {2}On Series (Introduction)}{57}{section.1.2.2}%
+\contentsline {chapter}{\numberline {3}Metric Spaces}{65}{chapter.1.3}%
+\contentsline {section}{\numberline {1}Fundamental Definitions n' Stuff}{65}{section.1.3.1}%
+\contentsline {subsection}{\numberline {1.1}Inner products, Normz and some common metrics}{67}{subsection.1.3.1.1}%
+\contentsline {subsubsection}{Continuity (Read definition of sequence in metric space, and limit points)}{68}{tcb@cnt@mydefinition.1.3.1.8}%
+\contentsline {subsubsection}{Sequences of Functions}{73}{tcb@cnt@mydefinition.1.3.1.19}%
+\contentsline {subsubsection}{$l_p$ Space}{76}{tcb@cnt@mydefinition.1.3.1.25}%
+\contentsline {subsection}{\numberline {1.2}More basics- }{76}{subsection.1.3.1.2}%
+\contentsline {section}{\numberline {2}Compactness}{83}{section.1.3.2}%
+\contentsline {section}{\numberline {3}Perfect Sets}{93}{section.1.3.3}%
+\contentsline {subsection}{\numberline {3.1}The Cantor Set}{94}{subsection.1.3.3.1}%
+\contentsline {section}{\numberline {4}Connected Sets}{95}{section.1.3.4}%
+\contentsline {section}{\numberline {5}Misc Knowledge}{97}{section.1.3.5}%
+\contentsfinish 
